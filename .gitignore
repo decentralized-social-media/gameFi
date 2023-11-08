@@ -4,4 +4,6 @@
 /SAND Data/data
 /SAND Data/previousRequests
 /SAND Data/backup
+/SAND Data/files
 *.token
+*.csv
